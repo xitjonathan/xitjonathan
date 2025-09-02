@@ -11,10 +11,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andermendoza&theme=dracula&column=7" alt="andermendoza" /></a> </p>
 
 <!-- BREVE DESCRIPCION -->
-- 📚 I am currently studying at ["Las Aguilas"](https://colegiolasaguilas.edu.gt/)
-
-
-- 📫 How to reach me **dmnjonathan109@gmail.com**
+- 📚  Actualmente estuduiando en: ["Las Aguilas"](https://colegiolasaguilas.edu.gt/)
+- 
+- 📫 E-Mail **dmnjonathan109@gmail.com**
 
 <!-- CONTACTO -->
 <h3 align="left">Connect with me:</h3>
