@@ -12,7 +12,7 @@
 
 <!-- BREVE DESCRIPCION -->
 - 📚  Actualmente estuduiando en: ["Las Aguilas"](https://colegiolasaguilas.edu.gt/)
-- 
+  
 - 📫 E-Mail **dmnjonathan109@gmail.com**
 
 <!-- CONTACTO -->
