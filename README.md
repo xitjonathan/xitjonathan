@@ -2,8 +2,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
 
-<img src="https://www.pinterest.com/pin/anime-purple-gif-anime-purple-clouds-discover-share-gifs--875035402587564817/">
 
 <!-- name  -->
 <h1>¡HOLA! Soy Jonathan 🐳 </h1>
