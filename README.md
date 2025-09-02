@@ -2,13 +2,12 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 <!-- GIF HEADER -->
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">
-
+/*<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/banner-header.gif">*/
+<img src="https://www.pinterest.com/pin/anime-purple-gif-anime-purple-clouds-discover-share-gifs--875035402587564817/">
 
 <!-- name  -->
 <h1>¡HOLA! Soy Jonathan 🐳 </h1>
-<h2>                                   </h2>
-
+<br><br>
 
 <!-- VISTAS DEL PERFIL -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andermendoza&label=Profile%20views&color=0e75b6&style=flat" alt="andermendoza" /> </p>
@@ -17,8 +16,7 @@
 
 
 <!-- BREVE DESCRIPCION -->
-- 📚  Actualmente estuduiando en: ["Las Aguilas"](https://colegiolasaguilas.edu.gt/)
-  
+
 - 📫 E-Mail **dmnjonathan109@gmail.com**
 
 <!-- CONTACTO -->
