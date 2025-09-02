@@ -6,7 +6,7 @@
 
 
 <!-- name  -->
-<h1>¡HOLA! Soy Jonathan Hernández 🐳 \n</h1>
+<h1>¡HOLA! Soy Jonathan Hernández 🐳 </h1>"\n"
 
 
 <!-- VISTAS DEL PERFIL -->
